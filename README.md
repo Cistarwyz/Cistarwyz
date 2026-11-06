@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Cistarwyz</h1>
 <h3 align="center">A tech enthusiast from id 🇮🇩</h3>
 
-- 👜💻 I’m currently working on MultitalentProject [Tixamp | Stamp | Web development](multitalentproject.id | craftor.tixamp.biz.id)
+- 👜💻 I’m currently working on MultitalentProject [Tixamp | Stamp | Web development](multitalentproject.id ) (craftor.tixamp.biz.id)
 
 - 🌱 I’m currently learning **Laravel, Flutter, Java, ETC**
 
